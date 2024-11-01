@@ -1,0 +1,22 @@
+[
+	{
+		"handle": "happy",
+		"path": "dist/css/happy.css",
+		"ext": "css",
+		"hash": "1c3eed5a8699ca1c73493cc1ed351c8b",
+		"version": "0.0.0",
+		"deps": [],
+		"footer": true,
+		"media": "all"
+	},
+	{
+		"handle": "happy",
+		"path": "dist/js/happy.js",
+		"ext": "js",
+		"hash": "68c84dd95464932c5d1682f40ed329e7",
+		"version": "0.0.0",
+		"deps": [],
+		"footer": true,
+		"media": "all"
+	}
+]
